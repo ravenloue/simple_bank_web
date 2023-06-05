@@ -3,9 +3,9 @@
 
     $pageData = new stdClass();
     $pageData->title = "Simplebank Web";
-    $navigationIsClicked = isset($_GET['page']);
+    $navigationIsClicked = isset($_GET['p']);
         if ($navigationIsClicked){
-            $fileToLoad = $_GET['page'];
+            $fileToLoad = $_GET['p'];
             $filepath = "./src/views/".$fileToLoad.".php";
             include_once $filepath;
             $pageData->content = $contents;

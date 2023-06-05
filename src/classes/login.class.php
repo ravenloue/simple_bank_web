@@ -11,12 +11,12 @@ class Login extends Dbh {
         try{ 
             $stmt = $db->query($query);
             if($stmt->num_rows == 0){
-                header("location: ../index.php?error=usernotfound");
+                header("location: ../../index.php?error=usernotfound");
                 exit();
             }
             $results = $stmt->fetch_row();
             if($results[1] != $pwd){
-                header("location: ../index.php?error=wrongpassword");
+                header("location: ../../index.php?error=wrongpassword");
                 exit();                
             }else{
                 $custId = $results[0];

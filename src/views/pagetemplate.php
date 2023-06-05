@@ -26,7 +26,7 @@ $page ="
         <!-- Body Content -->
         <main>
             <section class='container container-sm border border-secondary bg-light position-absolute top-50 start-50 translate-middle d-flex' 
-                     style='height: 480px; width: 720px;'>
+                     style='height: 800px; width: 1200px;'>
                 $pageData->content  
             </section>
         </main>

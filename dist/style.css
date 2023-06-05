@@ -3,7 +3,7 @@
     margin-right: 0;
     padding:0;
     background-color: #202136;
-    height:478px;
+    height: 798px;
     width: 360px;
     color:#f7f8fc;  
 }
@@ -27,8 +27,8 @@
     margin-right:-12px;
     padding: 0;
     background-color: #f7f8fc;
-    height:478px;
-    width:360px;
+    height:798px;
+    width:840px;
 }
 #loginInputs{
     margin-top: 45%;
@@ -68,11 +68,11 @@
     margin-right:-12px;
     padding: 0;
     background-color: #f7f8fc;
-    height:478px;
-    width:360px;
+    height:798px;
+    width:840px;
 }
 #NewAccountSection form{
-    margin-top: 25%;
+    margin-top: 36%;
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
@@ -108,8 +108,7 @@
     background-color: #202136;
     color:#f7f8fc;  
     width: 200px;
-    height: 478px;
-    /*display: none; */
+    height: 798px;
 }
 #AccessSection img{
     margin-left: 25px;
@@ -147,7 +146,7 @@
     padding: 0;
     background-color: #f7f8fc;
     width: 519px;
-    height: 478px;
+    height: 798px;
 }
 #PersonaCard{
     background-color: #202150;

@@ -16,7 +16,7 @@
        //Running error handlers and user signup
         $signup->signUpUser();
        //Going back to the front page
-       header('location: ../../index.php?page=signup&error=none');
+       header('location: ../../index.php?p=main&c=success');
    }
     
     ?>

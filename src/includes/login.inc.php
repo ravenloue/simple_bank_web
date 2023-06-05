@@ -15,7 +15,7 @@
        //Running error handlers and user signup
         $login->loginUser();
        //Going back to the front page
-       header('location: ../../index.php?page=loggedin');
+       header('location: ../../index.php?p=loggedin');
    }
     
     ?>

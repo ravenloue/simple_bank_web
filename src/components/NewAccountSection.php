@@ -19,7 +19,7 @@
                 </div>
                 <button type='submit' class='login-btn' name='submit' id='signUpBtn'>Sign Up</button><br />
             </form>
-            <h6>Already a member? <a href='index.php?page=main'>Log In</a>
+            <h6>Already a member? <a href='index.php?p=main'>Log In</a>
         </section>
     ";
 ?>
