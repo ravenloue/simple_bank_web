@@ -30,10 +30,13 @@
     height:478px;
     width:360px;
 }
-#LoginSection form{
+#loginInputs{
     margin-top: 45%;
     margin-left: 10%;
     margin-right: 10%;
+    text-align: center;
+}
+#LoginSection form {
     text-align: center;
 }
 #LoginSection label{
@@ -52,7 +55,6 @@
     border-radius: 6px;
     border-width: 1px;
     cursor: pointer;
-
 }
 #LoginSection h6{
     margin-top: 5px;
@@ -60,6 +62,117 @@
     font-size: .75rem;
     text-align: center;
     color: #545365;
+}
+#NewAccountSection{
+    margin-left:0;
+    margin-right:-12px;
+    padding: 0;
+    background-color: #f7f8fc;
+    height:478px;
+    width:360px;
+}
+#NewAccountSection form{
+    margin-top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+#NewAccountSection label{
+    color:#545365;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+#NewAccountSection button{
+    margin-top: 3px;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+    color: #202136;
+    background-image:  linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+    border-color: #202136;
+    border-radius: 6px;
+    border-width: 1px;
+    cursor: pointer;
+    width: 15rem;
+    height: 2.5rem;
+}
+#NewAccountSection h6{
+    margin-top: 5px;
+    font-weight: 700;
+    font-size: .75rem;
+    text-align: center;
+    color: #545365;
+}
+#AccessSection {
+    margin-left:-12px;
+    background-color: #202136;
+    color:#f7f8fc;  
+    width: 200px;
+    height: 478px;
+    /*display: none; */
+}
+#AccessSection img{
+    margin-left: 25px;
+}
+#AccessSection h4{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+#AccessSection p{
+    font-size: .875rem;
+    font-weight: 300;
+    text-align: center;
+}
+#AccessSection button{
+    margin-top: 6px;
+    margin-left: 30px;
+    padding: 0;
+    height: 40px;
+    width: 120px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    color: #202136;
+    background-image:  linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+    border-color: #202136;
+    border-radius: 6px;
+    border-width: 1px;
+    cursor: pointer;
+}
+#LoggedInSection{
+    margin-left: 0px;
+    margin-right:-12px;
+    padding: 0;
+    background-color: #f7f8fc;
+    width: 519px;
+    height: 478px;
+}
+#PersonaCard{
+    background-color: #202150;
+    height: 150px;
+    color: #dcdfee;
+    display: flexbox;
+}
+#PersonaCard h3{
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-left: 1rem;
+    font-weight: 700;
+    font-size: 1.75rem;
+}
+#PersonaCard h5{
+    margin-left: 1rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: inline-block;
+}
+#PersonaCard p{
+    margin-left: 1.25rem;
+    font-weight: 300;
+    font-size: 1.25rem;
+    display: inline-block;
 }
 footer{
     color:white;
