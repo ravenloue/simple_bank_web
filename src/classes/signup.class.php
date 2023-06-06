@@ -12,7 +12,7 @@ class Signup extends Dbh {
             $stmt = $db->stmt_init();
             if(!$stmt->prepare($query)){
                 $stmt->close();
-                header("location: ../index.php?error=stmtfailed");
+                header("location: ../../index.php?error=stmtfailed");
                 exit();
             }else{
                 $stmt->bind_param("s", $accNum);
@@ -33,7 +33,7 @@ class Signup extends Dbh {
         try{
             if(!$stmt2->prepare($query2)){
                 $stmt2->close();
-                header("location: ../index.php?error=stmtfailed");
+                header("location: ../../index.php?error=stmtfailed");
                 exit();
             }else{
                 $stmt2->bind_param("sss", $custID, $uId, $pwd);

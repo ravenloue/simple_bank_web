@@ -1,9 +1,11 @@
+
+/****** Welcome Section ******/
 #WelcomeSection{
     margin-left:-12px;
     margin-right: 0;
     padding:0;
     background-color: #202136;
-    height:478px;
+    height: 798px;
     width: 360px;
     color:#f7f8fc;  
 }
@@ -22,13 +24,15 @@
     font-size: .75rem;
     text-align: center;
 }
+
+/****** Login Section ******/
 #LoginSection{
     margin-left:0;
     margin-right:-12px;
     padding: 0;
     background-color: #f7f8fc;
-    height:478px;
-    width:360px;
+    height:798px;
+    width:840px;
 }
 #loginInputs{
     margin-top: 45%;
@@ -63,16 +67,18 @@
     text-align: center;
     color: #545365;
 }
+
+/****** New Account Section ******/
 #NewAccountSection{
     margin-left:0;
     margin-right:-12px;
     padding: 0;
     background-color: #f7f8fc;
-    height:478px;
-    width:360px;
+    height:798px;
+    width:840px;
 }
 #NewAccountSection form{
-    margin-top: 25%;
+    margin-top: 36%;
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
@@ -103,13 +109,14 @@
     text-align: center;
     color: #545365;
 }
+
+/****** Access Section ******/
 #AccessSection {
     margin-left:-12px;
     background-color: #202136;
     color:#f7f8fc;  
     width: 200px;
-    height: 478px;
-    /*display: none; */
+    height: 798px;
 }
 #AccessSection img{
     margin-left: 25px;
@@ -141,19 +148,126 @@
     border-width: 1px;
     cursor: pointer;
 }
+#clock{
+    text-align: center;
+    font-size: 1.875rem;
+    font-weight: 700;
+    color:#dcdfee;
+}
+
+/****** Calendar ******/
+div#calendar{
+    margin-left:-5px;
+    padding:0px;
+    width: 186px;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+  }   
+div#calendar div.header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:#545365;
+    text-align:center;
+    display:block;
+    cursor:pointer;
+    text-decoration:none;
+    border-top-left-radius: 10% 40%;
+    border-top-right-radius: 10% 40%;
+  }   
+div#calendar div.header span.title{
+      color:#FFF;
+      font-size:18px;
+      font-weight: 700;
+  }
+/****** Calendar Content Cells ******/
+div#calendar div.box-content{
+      border:1px solid #202136;
+      border-top:none;
+      background-color: #dcdfee;
+      border-bottom-left-radius: 10%;
+      border-bottom-right-radius: 10%;
+  }
+div#calendar ul.label{
+      float:left;
+      margin: 0px;
+      padding: 0px;
+      margin-top:5px;
+      margin-left: 5px;
+  }
+div#calendar ul.label li{
+      margin-left:3px;
+      padding:0px;
+      margin-right:2px;  
+      float:left;
+      list-style-type:none;
+      width:20px;
+      height:20px;
+      line-height:20px;
+      vertical-align:middle;
+      text-align:center;
+      color:#000;
+      font-size: 12px;
+      background-color: transparent;
+  }
+div#calendar ul.dates{
+      float:left;
+      margin: 0px;
+      padding: 0px;
+      margin-left: 5px;
+      margin-bottom: 5px;
+  }
+/** overall width = width+padding-right**/
+div#calendar ul.dates li{
+      margin:0px;
+      padding:0px;
+      margin-right:5px;
+      margin-top: 5px;
+      line-height:20px;
+      vertical-align:middle;
+      float:left;
+      list-style-type:none;
+      width:20px;
+      height:20px;
+      font-size:12px;
+      background-color: #DDD;
+      color:#000;
+      text-align:center; 
+  }
+:focus{
+      outline:none;
+  }
+div.clear{
+      clear:both;
+  }
+
+/****** Dashboard ******/
 #LoggedInSection{
     margin-left: 0px;
     margin-right:-12px;
     padding: 0;
     background-color: #f7f8fc;
-    width: 519px;
-    height: 478px;
+    width: 999px;
+    height: 798px;
 }
 #PersonaCard{
     background-color: #202150;
     height: 150px;
     color: #dcdfee;
-    display: flexbox;
+    display: flex;
+}
+.flex-grid{
+    display: flex;
+}
+.flex-col{
+    flex: 1;
+}
+#PersonaCard>*:first-child{
+    margin: 1rem;
+    align-self: center;
+}
+#PersonaCard>*:nth-child(2){
+    justify-self: flex-start;
+    align-self:center;
 }
 #PersonaCard h3{
     padding-top: 5px;
@@ -174,6 +288,8 @@
     font-size: 1.25rem;
     display: inline-block;
 }
+
+
 footer{
     color:white;
     font-size:.75rem; 

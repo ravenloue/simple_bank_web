@@ -16,7 +16,7 @@
             </form>
             <form><button type='click' class='login-btn' id='forgotPword'>Forgot Password</button></form>
             
-            <h6>Not a user? <a href='index.php?page=signup'>Sign up now!</a>
+            <h6>Not a user? <a href='index.php?p=signup'>Sign up now!</a>
         </section>
     ";
 ?>

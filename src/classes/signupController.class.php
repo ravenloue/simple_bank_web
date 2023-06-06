@@ -15,19 +15,19 @@ class SignupController extends Signup {
 
     public function signUpUser(){
         if($this->emptyInput() == false){
-            header('location: ../index.php?error=emptyinput');
+            header('location: ../../index.php?error=emptyinput');
             exit();
         }
         if($this->invalidAcct() == false){
-            header('location: ../index.php?error=invalidaccountnumber');
+            header('location: ../../index.php?error=invalidaccountnumber');
             exit();
         }
         if($this->invalidUId() == false){
-            header('location: ../index.php?error=invalidusername');
+            header('location: ../../index.php?error=invalidusername');
             exit();
         }
         if($this->uIdNotInDb() == false){
-            header('location: ../index.php?error=invalidusername');
+            header('location: ../../index.php?error=invalidusername');
             exit();
         }
 

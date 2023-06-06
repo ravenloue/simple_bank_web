@@ -4,5 +4,5 @@
     session_destroy();
 
     //Going back to the front page
-    header('location: ../index.php');
+    header('location: ../../index.php');
 ?>
