@@ -35,5 +35,6 @@ $page ="
     <footer>
         <p>Created by ravenloue</p>
     </footer>
+    
 </html>";
 ?>
