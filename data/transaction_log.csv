@@ -1,0 +1,402 @@
+TransactionId,AcctNum,TransactionDate,TransactionTime,Amount,TransactionDetails,TransactionType
+10001,,6/15/2023,12:30:00 AM,-$20.00,Fuel-N-Go,Gas
+10002,,6/15/2023,12:40:00 AM,-$50.00,NomsMart,Groceries
+10003,,6/15/2023,12:50:00 AM,-$68.00,Lee's Electric,Utilities
+10004,,6/15/2023,1:00:00 AM,,,Other
+10005,,6/15/2023,1:10:00 AM,-$10.00,Fuel-N-Go,Gas
+10006,,6/15/2023,1:20:00 AM,-$30.00,NomsMart,Groceries
+10007,,6/15/2023,1:30:00 AM,-$150.00,Moore Power,Utilities
+10008,,6/15/2023,1:40:00 AM,,,Other
+10009,,6/15/2023,1:50:00 AM,-$50.00,Fuel-N-Go,Gas
+10010,,6/15/2023,2:00:00 AM,-$15.00,NomsMart,Groceries
+10011,,6/15/2023,2:10:00 AM,-$50.00,S-Mobile,Utilities
+10012,,6/15/2023,2:20:00 AM,,,Other
+10013,,6/15/2023,2:30:00 AM,-$25.00,Fuel-N-Go,Gas
+10014,,6/15/2023,2:40:00 AM,-$120.00,NomsMart,Groceries
+10015,,6/15/2023,2:50:00 AM,-$75.00,MoMo Co,Utilities
+10016,,6/15/2023,3:00:00 AM,,,Other
+10017,,6/15/2023,3:10:00 AM,-$20.00,Fuel-N-Go,Gas
+10018,,6/15/2023,3:20:00 AM,-$50.00,NomsMart,Groceries
+10019,,6/15/2023,3:30:00 AM,-$20.00,WaterShield,Utilities
+10020,,6/15/2023,3:40:00 AM,,,Other
+10021,,6/15/2023,3:50:00 AM,-$10.00,Fuel-N-Go,Gas
+10022,,6/15/2023,4:00:00 AM,-$30.00,NomsMart,Groceries
+10023,,6/15/2023,4:10:00 AM,-$85.00,Lee's Electric,Utilities
+10024,,6/15/2023,4:20:00 AM,,,Other
+10025,,6/15/2023,4:30:00 AM,-$50.00,Fuel-N-Go,Gas
+10026,,6/15/2023,4:40:00 AM,-$15.00,NomsMart,Groceries
+10027,,6/15/2023,4:50:00 AM,-$100.00,Moore Power,Utilities
+10028,,6/15/2023,5:00:00 AM,,,Other
+10029,,6/15/2023,5:10:00 AM,-$25.00,Fuel-N-Go,Gas
+10030,,6/15/2023,5:20:00 AM,-$120.00,NomsMart,Groceries
+10031,,6/15/2023,5:30:00 AM,-$75.00,S-Mobile,Utilities
+10032,,6/15/2023,5:40:00 AM,,,Other
+10033,,6/15/2023,5:50:00 AM,-$20.00,Fuel-N-Go,Gas
+10034,,6/15/2023,6:00:00 AM,-$50.00,NomsMart,Groceries
+10035,,6/15/2023,6:10:00 AM,-$68.00,MoMo Co,Utilities
+10036,,6/15/2023,6:20:00 AM,,,Other
+10037,,6/15/2023,6:30:00 AM,-$10.00,Fuel-N-Go,Gas
+10038,,6/15/2023,6:40:00 AM,-$30.00,NomsMart,Groceries
+10039,,6/15/2023,6:50:00 AM,-$150.00,WaterShield,Utilities
+10040,,6/15/2023,7:00:00 AM,,,Other
+10041,,6/15/2023,7:10:00 AM,-$50.00,Fuel-N-Go,Gas
+10042,,6/15/2023,7:20:00 AM,-$15.00,NomsMart,Groceries
+10043,,6/15/2023,7:30:00 AM,-$50.00,Lee's Electric,Utilities
+10044,,6/15/2023,7:40:00 AM,,,Other
+10045,,6/15/2023,7:50:00 AM,-$25.00,Fuel-N-Go,Gas
+10046,,6/15/2023,8:00:00 AM,-$120.00,NomsMart,Groceries
+10047,,6/15/2023,8:10:00 AM,-$75.00,Moore Power,Utilities
+10048,,6/15/2023,8:20:00 AM,,,Other
+10049,,6/15/2023,8:30:00 AM,-$20.00,Fuel-N-Go,Gas
+10050,,6/15/2023,8:40:00 AM,-$50.00,NomsMart,Groceries
+10051,,6/15/2023,8:50:00 AM,-$20.00,S-Mobile,Utilities
+10052,,6/15/2023,9:00:00 AM,,,Other
+10053,,6/15/2023,9:10:00 AM,-$10.00,Fuel-N-Go,Gas
+10054,,6/15/2023,9:20:00 AM,-$30.00,NomsMart,Groceries
+10055,,6/15/2023,9:30:00 AM,-$85.00,MoMo Co,Utilities
+10056,,6/15/2023,9:40:00 AM,,,Other
+10057,,6/15/2023,9:50:00 AM,-$50.00,Fuel-N-Go,Gas
+10058,,6/15/2023,10:00:00 AM,-$15.00,NomsMart,Groceries
+10059,,6/15/2023,10:10:00 AM,-$100.00,WaterShield,Utilities
+10060,,6/15/2023,10:20:00 AM,,,Other
+10061,,6/15/2023,10:30:00 AM,-$25.00,Fuel-N-Go,Gas
+10062,,6/15/2023,10:40:00 AM,-$120.00,NomsMart,Groceries
+10063,,6/15/2023,10:50:00 AM,-$75.00,Lee's Electric,Utilities
+10064,,6/15/2023,11:00:00 AM,,,Other
+10065,,6/15/2023,11:10:00 AM,-$20.00,Fuel-N-Go,Gas
+10066,,6/15/2023,11:20:00 AM,-$50.00,NomsMart,Groceries
+10067,,6/15/2023,11:30:00 AM,-$68.00,Moore Power,Utilities
+10068,,6/15/2023,11:40:00 AM,,,Other
+10069,,6/15/2023,11:50:00 AM,-$10.00,Fuel-N-Go,Gas
+10070,,6/15/2023,12:00:00 PM,-$30.00,NomsMart,Groceries
+10071,,6/15/2023,12:10:00 PM,-$150.00,S-Mobile,Utilities
+10072,,6/15/2023,12:20:00 PM,,,Other
+10073,,6/15/2023,12:30:00 PM,-$50.00,Fuel-N-Go,Gas
+10074,,6/15/2023,12:40:00 PM,-$15.00,NomsMart,Groceries
+10075,,6/15/2023,12:50:00 PM,-$50.00,MoMo Co,Utilities
+10076,,6/15/2023,1:00:00 PM,,,Other
+10077,,6/15/2023,1:10:00 PM,-$25.00,Fuel-N-Go,Gas
+10078,,6/15/2023,1:20:00 PM,-$120.00,NomsMart,Groceries
+10079,,6/15/2023,1:30:00 PM,-$75.00,WaterShield,Utilities
+10080,,6/15/2023,1:40:00 PM,,,Other
+10081,,6/15/2023,1:50:00 PM,-$20.00,Fuel-N-Go,Gas
+10082,,6/15/2023,2:00:00 PM,-$50.00,NomsMart,Groceries
+10083,,6/15/2023,2:10:00 PM,-$20.00,Lee's Electric,Utilities
+10084,,6/15/2023,2:20:00 PM,,,Other
+10085,,6/15/2023,2:30:00 PM,-$10.00,Fuel-N-Go,Gas
+10086,,6/15/2023,2:40:00 PM,-$30.00,NomsMart,Groceries
+10087,,6/15/2023,2:50:00 PM,-$85.00,Moore Power,Utilities
+10088,,6/15/2023,3:00:00 PM,,,Other
+10089,,6/15/2023,3:10:00 PM,-$50.00,Fuel-N-Go,Gas
+10090,,6/15/2023,3:20:00 PM,-$15.00,NomsMart,Groceries
+10091,,6/15/2023,3:30:00 PM,-$100.00,S-Mobile,Utilities
+10092,,6/15/2023,3:40:00 PM,,,Other
+10093,,6/15/2023,3:50:00 PM,-$25.00,Fuel-N-Go,Gas
+10094,,6/15/2023,4:00:00 PM,-$120.00,NomsMart,Groceries
+10095,,6/15/2023,4:10:00 PM,-$75.00,MoMo Co,Utilities
+10096,,6/15/2023,4:20:00 PM,,,Other
+10097,,6/15/2023,4:30:00 PM,-$20.00,Fuel-N-Go,Gas
+10098,,6/15/2023,4:40:00 PM,-$50.00,NomsMart,Groceries
+10099,,6/15/2023,4:50:00 PM,-$68.00,WaterShield,Utilities
+10100,,6/16/2023,12:30:00 AM,,,Other
+10101,,6/16/2023,12:40:00 AM,-$10.00,Fuel-N-Go,Gas
+10102,,6/16/2023,12:50:00 AM,-$30.00,NomsMart,Groceries
+10103,,6/16/2023,1:00:00 AM,-$150.00,Lee's Electric,Utilities
+10104,,6/16/2023,1:10:00 AM,,,Other
+10105,,6/16/2023,1:20:00 AM,-$50.00,Fuel-N-Go,Gas
+10106,,6/16/2023,1:30:00 AM,-$15.00,NomsMart,Groceries
+10107,,6/16/2023,1:40:00 AM,-$50.00,Moore Power,Utilities
+10108,,6/16/2023,1:50:00 AM,,,Other
+10109,,6/16/2023,2:00:00 AM,-$25.00,Fuel-N-Go,Gas
+10110,,6/16/2023,2:10:00 AM,-$120.00,NomsMart,Groceries
+10111,,6/16/2023,2:20:00 AM,-$75.00,S-Mobile,Utilities
+10112,,6/16/2023,2:30:00 AM,,,Other
+10113,,6/16/2023,2:40:00 AM,-$20.00,Fuel-N-Go,Gas
+10114,,6/16/2023,2:50:00 AM,-$50.00,NomsMart,Groceries
+10115,,6/16/2023,3:00:00 AM,-$20.00,MoMo Co,Utilities
+10116,,6/16/2023,3:10:00 AM,,,Other
+10117,,6/16/2023,3:20:00 AM,-$10.00,Fuel-N-Go,Gas
+10118,,6/16/2023,3:30:00 AM,-$30.00,NomsMart,Groceries
+10119,,6/16/2023,3:40:00 AM,-$85.00,WaterShield,Utilities
+10120,,6/16/2023,3:50:00 AM,,,Other
+10121,,6/16/2023,4:00:00 AM,-$50.00,Fuel-N-Go,Gas
+10122,,6/16/2023,4:10:00 AM,-$15.00,NomsMart,Groceries
+10123,,6/16/2023,4:20:00 AM,-$100.00,Lee's Electric,Utilities
+10124,,6/16/2023,4:30:00 AM,,,Other
+10125,,6/16/2023,4:40:00 AM,-$25.00,Fuel-N-Go,Gas
+10126,,6/16/2023,4:50:00 AM,-$120.00,NomsMart,Groceries
+10127,,6/16/2023,5:00:00 AM,-$75.00,Moore Power,Utilities
+10128,,6/16/2023,5:10:00 AM,,,Other
+10129,,6/16/2023,5:20:00 AM,-$20.00,Fuel-N-Go,Gas
+10130,,6/16/2023,5:30:00 AM,-$50.00,NomsMart,Groceries
+10131,,6/16/2023,5:40:00 AM,-$68.00,S-Mobile,Utilities
+10132,,6/16/2023,5:50:00 AM,,,Other
+10133,,6/16/2023,6:00:00 AM,-$10.00,Fuel-N-Go,Gas
+10134,,6/16/2023,6:10:00 AM,-$30.00,NomsMart,Groceries
+10135,,6/16/2023,6:20:00 AM,-$150.00,MoMo Co,Utilities
+10136,,6/16/2023,6:30:00 AM,,,Other
+10137,,6/16/2023,6:40:00 AM,-$50.00,Fuel-N-Go,Gas
+10138,,6/16/2023,6:50:00 AM,-$15.00,NomsMart,Groceries
+10139,,6/16/2023,7:00:00 AM,-$50.00,WaterShield,Utilities
+10140,,6/16/2023,7:10:00 AM,,,Other
+10141,,6/16/2023,7:20:00 AM,-$25.00,Fuel-N-Go,Gas
+10142,,6/16/2023,7:30:00 AM,-$120.00,NomsMart,Groceries
+10143,,6/16/2023,7:40:00 AM,-$75.00,Lee's Electric,Utilities
+10144,,6/16/2023,7:50:00 AM,,,Other
+10145,,6/16/2023,8:00:00 AM,-$20.00,Fuel-N-Go,Gas
+10146,,6/16/2023,8:10:00 AM,-$50.00,NomsMart,Groceries
+10147,,6/16/2023,8:20:00 AM,-$20.00,Moore Power,Utilities
+10148,,6/16/2023,8:30:00 AM,,,Other
+10149,,6/16/2023,8:40:00 AM,-$10.00,Fuel-N-Go,Gas
+10150,,6/16/2023,8:50:00 AM,-$30.00,NomsMart,Groceries
+10151,,6/16/2023,9:00:00 AM,-$85.00,S-Mobile,Utilities
+10152,,6/16/2023,9:10:00 AM,,,Other
+10153,,6/16/2023,9:20:00 AM,-$50.00,Fuel-N-Go,Gas
+10154,,6/16/2023,9:30:00 AM,-$15.00,NomsMart,Groceries
+10155,,6/16/2023,9:40:00 AM,-$100.00,MoMo Co,Utilities
+10156,,6/16/2023,9:50:00 AM,,,Other
+10157,,6/16/2023,10:00:00 AM,-$25.00,Fuel-N-Go,Gas
+10158,,6/16/2023,10:10:00 AM,-$120.00,NomsMart,Groceries
+10159,,6/16/2023,10:20:00 AM,-$75.00,WaterShield,Utilities
+10160,,6/16/2023,10:30:00 AM,,,Other
+10161,,6/16/2023,10:40:00 AM,-$20.00,Fuel-N-Go,Gas
+10162,,6/16/2023,10:50:00 AM,-$50.00,NomsMart,Groceries
+10163,,6/16/2023,11:00:00 AM,-$68.00,Lee's Electric,Utilities
+10164,,6/16/2023,11:10:00 AM,,,Other
+10165,,6/16/2023,11:20:00 AM,-$10.00,Fuel-N-Go,Gas
+10166,,6/16/2023,11:30:00 AM,-$30.00,NomsMart,Groceries
+10167,,6/16/2023,11:40:00 AM,-$150.00,Moore Power,Utilities
+10168,,6/16/2023,11:50:00 AM,,,Other
+10169,,6/16/2023,12:00:00 PM,-$50.00,Fuel-N-Go,Gas
+10170,,6/16/2023,12:10:00 PM,-$15.00,NomsMart,Groceries
+10171,,6/16/2023,12:20:00 PM,-$50.00,S-Mobile,Utilities
+10172,,6/16/2023,12:30:00 PM,,,Other
+10173,,6/16/2023,12:40:00 PM,-$25.00,Fuel-N-Go,Gas
+10174,,6/16/2023,12:50:00 PM,-$120.00,NomsMart,Groceries
+10175,,6/16/2023,1:00:00 PM,-$75.00,MoMo Co,Utilities
+10176,,6/16/2023,1:10:00 PM,,,Other
+10177,,6/16/2023,1:20:00 PM,-$20.00,Fuel-N-Go,Gas
+10178,,6/16/2023,1:30:00 PM,-$50.00,NomsMart,Groceries
+10179,,6/16/2023,1:40:00 PM,-$20.00,WaterShield,Utilities
+10180,,6/16/2023,1:50:00 PM,,,Other
+10181,,6/16/2023,2:00:00 PM,-$10.00,Fuel-N-Go,Gas
+10182,,6/16/2023,2:10:00 PM,-$30.00,NomsMart,Groceries
+10183,,6/16/2023,2:20:00 PM,-$85.00,Lee's Electric,Utilities
+10184,,6/16/2023,2:30:00 PM,,,Other
+10185,,6/16/2023,2:40:00 PM,-$50.00,Fuel-N-Go,Gas
+10186,,6/16/2023,2:50:00 PM,-$15.00,NomsMart,Groceries
+10187,,6/16/2023,3:00:00 PM,-$100.00,Moore Power,Utilities
+10188,,6/16/2023,3:10:00 PM,,,Other
+10189,,6/16/2023,3:20:00 PM,-$25.00,Fuel-N-Go,Gas
+10190,,6/16/2023,3:30:00 PM,-$120.00,NomsMart,Groceries
+10191,,6/16/2023,3:40:00 PM,-$75.00,S-Mobile,Utilities
+10192,,6/16/2023,3:50:00 PM,,,Other
+10193,,6/16/2023,4:00:00 PM,-$20.00,Fuel-N-Go,Gas
+10194,,6/16/2023,4:10:00 PM,-$50.00,NomsMart,Groceries
+10195,,6/16/2023,4:20:00 PM,-$68.00,MoMo Co,Utilities
+10196,,6/16/2023,4:30:00 PM,,,Other
+10197,,6/16/2023,4:40:00 PM,-$10.00,Fuel-N-Go,Gas
+10198,,6/16/2023,4:50:00 PM,-$30.00,NomsMart,Groceries
+10199,,6/16/2023,5:00:00 PM,-$150.00,WaterShield,Utilities
+10200,,6/17/2023,12:30:00 AM,,,Other
+10201,,6/17/2023,12:40:00 AM,-$50.00,Fuel-N-Go,Gas
+10202,,6/17/2023,12:50:00 AM,-$15.00,NomsMart,Groceries
+10203,,6/17/2023,1:00:00 AM,-$50.00,Lee's Electric,Utilities
+10204,,6/17/2023,1:10:00 AM,,,Other
+10205,,6/17/2023,1:20:00 AM,-$25.00,Fuel-N-Go,Gas
+10206,,6/17/2023,1:30:00 AM,-$120.00,NomsMart,Groceries
+10207,,6/17/2023,1:40:00 AM,-$75.00,Moore Power,Utilities
+10208,,6/17/2023,1:50:00 AM,,,Other
+10209,,6/17/2023,2:00:00 AM,-$20.00,Fuel-N-Go,Gas
+10210,,6/17/2023,2:10:00 AM,-$50.00,NomsMart,Groceries
+10211,,6/17/2023,2:20:00 AM,-$20.00,S-Mobile,Utilities
+10212,,6/17/2023,2:30:00 AM,,,Other
+10213,,6/17/2023,2:40:00 AM,-$10.00,Fuel-N-Go,Gas
+10214,,6/17/2023,2:50:00 AM,-$30.00,NomsMart,Groceries
+10215,,6/17/2023,3:00:00 AM,-$85.00,MoMo Co,Utilities
+10216,,6/17/2023,3:10:00 AM,,,Other
+10217,,6/17/2023,3:20:00 AM,-$50.00,Fuel-N-Go,Gas
+10218,,6/17/2023,3:30:00 AM,-$15.00,NomsMart,Groceries
+10219,,6/17/2023,3:40:00 AM,-$100.00,WaterShield,Utilities
+10220,,6/17/2023,3:50:00 AM,,,Other
+10221,,6/17/2023,4:00:00 AM,-$25.00,Fuel-N-Go,Gas
+10222,,6/17/2023,4:10:00 AM,-$120.00,NomsMart,Groceries
+10223,,6/17/2023,4:20:00 AM,-$75.00,Lee's Electric,Utilities
+10224,,6/17/2023,4:30:00 AM,,,Other
+10225,,6/17/2023,4:40:00 AM,-$20.00,Fuel-N-Go,Gas
+10226,,6/17/2023,4:50:00 AM,-$50.00,NomsMart,Groceries
+10227,,6/17/2023,5:00:00 AM,-$68.00,Moore Power,Utilities
+10228,,6/17/2023,5:10:00 AM,,,Other
+10229,,6/17/2023,5:20:00 AM,-$10.00,Fuel-N-Go,Gas
+10230,,6/17/2023,5:30:00 AM,-$30.00,NomsMart,Groceries
+10231,,6/17/2023,5:40:00 AM,-$150.00,S-Mobile,Utilities
+10232,,6/17/2023,5:50:00 AM,,,Other
+10233,,6/17/2023,6:00:00 AM,-$50.00,Fuel-N-Go,Gas
+10234,,6/17/2023,6:10:00 AM,-$15.00,NomsMart,Groceries
+10235,,6/17/2023,6:20:00 AM,-$50.00,MoMo Co,Utilities
+10236,,6/17/2023,6:30:00 AM,,,Other
+10237,,6/17/2023,6:40:00 AM,-$25.00,Fuel-N-Go,Gas
+10238,,6/17/2023,6:50:00 AM,-$120.00,NomsMart,Groceries
+10239,,6/17/2023,7:00:00 AM,-$75.00,WaterShield,Utilities
+10240,,6/17/2023,7:10:00 AM,,,Other
+10241,,6/17/2023,7:20:00 AM,-$20.00,Fuel-N-Go,Gas
+10242,,6/17/2023,7:30:00 AM,-$50.00,NomsMart,Groceries
+10243,,6/17/2023,7:40:00 AM,-$20.00,Lee's Electric,Utilities
+10244,,6/17/2023,7:50:00 AM,,,Other
+10245,,6/17/2023,8:00:00 AM,-$10.00,Fuel-N-Go,Gas
+10246,,6/17/2023,8:10:00 AM,-$30.00,NomsMart,Groceries
+10247,,6/17/2023,8:20:00 AM,-$85.00,Moore Power,Utilities
+10248,,6/17/2023,8:30:00 AM,,,Other
+10249,,6/17/2023,8:40:00 AM,-$50.00,Fuel-N-Go,Gas
+10250,,6/17/2023,8:50:00 AM,-$15.00,NomsMart,Groceries
+10251,,6/17/2023,9:00:00 AM,-$100.00,S-Mobile,Utilities
+10252,,6/17/2023,9:10:00 AM,,,Other
+10253,,6/17/2023,9:20:00 AM,-$25.00,Fuel-N-Go,Gas
+10254,,6/17/2023,9:30:00 AM,-$120.00,NomsMart,Groceries
+10255,,6/17/2023,9:40:00 AM,-$75.00,MoMo Co,Utilities
+10256,,6/17/2023,9:50:00 AM,,,Other
+10257,,6/17/2023,10:00:00 AM,-$20.00,Fuel-N-Go,Gas
+10258,,6/17/2023,10:10:00 AM,-$50.00,NomsMart,Groceries
+10259,,6/17/2023,10:20:00 AM,-$68.00,WaterShield,Utilities
+10260,,6/17/2023,10:30:00 AM,,,Other
+10261,,6/17/2023,10:40:00 AM,-$10.00,Fuel-N-Go,Gas
+10262,,6/17/2023,10:50:00 AM,-$30.00,NomsMart,Groceries
+10263,,6/17/2023,11:00:00 AM,-$150.00,Lee's Electric,Utilities
+10264,,6/17/2023,11:10:00 AM,,,Other
+10265,,6/17/2023,11:20:00 AM,-$50.00,Fuel-N-Go,Gas
+10266,,6/17/2023,11:30:00 AM,-$15.00,NomsMart,Groceries
+10267,,6/17/2023,11:40:00 AM,-$50.00,Moore Power,Utilities
+10268,,6/17/2023,11:50:00 AM,,,Other
+10269,,6/17/2023,12:00:00 PM,-$25.00,Fuel-N-Go,Gas
+10270,,6/17/2023,12:10:00 PM,-$120.00,NomsMart,Groceries
+10271,,6/17/2023,12:20:00 PM,-$75.00,S-Mobile,Utilities
+10272,,6/17/2023,12:30:00 PM,,,Other
+10273,,6/17/2023,12:40:00 PM,-$20.00,Fuel-N-Go,Gas
+10274,,6/17/2023,12:50:00 PM,-$50.00,NomsMart,Groceries
+10275,,6/17/2023,1:00:00 PM,-$20.00,MoMo Co,Utilities
+10276,,6/17/2023,1:10:00 PM,,,Other
+10277,,6/17/2023,1:20:00 PM,-$10.00,Fuel-N-Go,Gas
+10278,,6/17/2023,1:30:00 PM,-$30.00,NomsMart,Groceries
+10279,,6/17/2023,1:40:00 PM,-$85.00,WaterShield,Utilities
+10280,,6/17/2023,1:50:00 PM,,,Other
+10281,,6/17/2023,2:00:00 PM,-$50.00,Fuel-N-Go,Gas
+10282,,6/17/2023,2:10:00 PM,-$15.00,NomsMart,Groceries
+10283,,6/17/2023,2:20:00 PM,-$100.00,Lee's Electric,Utilities
+10284,,6/17/2023,2:30:00 PM,,,Other
+10285,,6/17/2023,2:40:00 PM,-$25.00,Fuel-N-Go,Gas
+10286,,6/17/2023,2:50:00 PM,-$120.00,NomsMart,Groceries
+10287,,6/17/2023,3:00:00 PM,-$75.00,Moore Power,Utilities
+10288,,6/17/2023,3:10:00 PM,,,Other
+10289,,6/17/2023,3:20:00 PM,-$20.00,Fuel-N-Go,Gas
+10290,,6/17/2023,3:30:00 PM,-$50.00,NomsMart,Groceries
+10291,,6/17/2023,3:40:00 PM,-$68.00,S-Mobile,Utilities
+10292,,6/17/2023,3:50:00 PM,,,Other
+10293,,6/17/2023,4:00:00 PM,-$10.00,Fuel-N-Go,Gas
+10294,,6/17/2023,4:10:00 PM,-$30.00,NomsMart,Groceries
+10295,,6/17/2023,4:20:00 PM,-$150.00,MoMo Co,Utilities
+10296,,6/17/2023,4:30:00 PM,,,Other
+10297,,6/17/2023,4:40:00 PM,-$50.00,Fuel-N-Go,Gas
+10298,,6/17/2023,4:50:00 PM,-$15.00,NomsMart,Groceries
+10299,,6/17/2023,5:00:00 PM,-$50.00,WaterShield,Utilities
+10300,,6/18/2023,12:30:00 AM,,,Other
+10301,,6/18/2023,12:40:00 AM,-$25.00,Fuel-N-Go,Gas
+10302,,6/18/2023,12:50:00 AM,-$120.00,NomsMart,Groceries
+10303,,6/18/2023,1:00:00 AM,-$75.00,Lee's Electric,Utilities
+10304,,6/18/2023,1:10:00 AM,,,Other
+10305,,6/18/2023,1:20:00 AM,-$20.00,Fuel-N-Go,Gas
+10306,,6/18/2023,1:30:00 AM,-$50.00,NomsMart,Groceries
+10307,,6/18/2023,1:40:00 AM,-$20.00,Moore Power,Utilities
+10308,,6/18/2023,1:50:00 AM,,,Other
+10309,,6/18/2023,2:00:00 AM,-$10.00,Fuel-N-Go,Gas
+10310,,6/18/2023,2:10:00 AM,-$30.00,NomsMart,Groceries
+10311,,6/18/2023,2:20:00 AM,-$85.00,S-Mobile,Utilities
+10312,,6/18/2023,2:30:00 AM,,,Other
+10313,,6/18/2023,2:40:00 AM,-$50.00,Fuel-N-Go,Gas
+10314,,6/18/2023,2:50:00 AM,-$15.00,NomsMart,Groceries
+10315,,6/18/2023,3:00:00 AM,-$100.00,MoMo Co,Utilities
+10316,,6/18/2023,3:10:00 AM,,,Other
+10317,,6/18/2023,3:20:00 AM,-$25.00,Fuel-N-Go,Gas
+10318,,6/18/2023,3:30:00 AM,-$120.00,NomsMart,Groceries
+10319,,6/18/2023,3:40:00 AM,-$75.00,WaterShield,Utilities
+10320,,6/18/2023,3:50:00 AM,,,Other
+10321,,6/18/2023,4:00:00 AM,-$20.00,Fuel-N-Go,Gas
+10322,,6/18/2023,4:10:00 AM,-$50.00,NomsMart,Groceries
+10323,,6/18/2023,4:20:00 AM,-$68.00,Lee's Electric,Utilities
+10324,,6/18/2023,4:30:00 AM,,,Other
+10325,,6/18/2023,4:40:00 AM,-$10.00,Fuel-N-Go,Gas
+10326,,6/18/2023,4:50:00 AM,-$30.00,NomsMart,Groceries
+10327,,6/18/2023,5:00:00 AM,-$150.00,Moore Power,Utilities
+10328,,6/18/2023,5:10:00 AM,,,Other
+10329,,6/18/2023,5:20:00 AM,-$50.00,Fuel-N-Go,Gas
+10330,,6/18/2023,5:30:00 AM,-$15.00,NomsMart,Groceries
+10331,,6/18/2023,5:40:00 AM,-$50.00,S-Mobile,Utilities
+10332,,6/18/2023,5:50:00 AM,,,Other
+10333,,6/18/2023,6:00:00 AM,-$25.00,Fuel-N-Go,Gas
+10334,,6/18/2023,6:10:00 AM,-$120.00,NomsMart,Groceries
+10335,,6/18/2023,6:20:00 AM,-$75.00,MoMo Co,Utilities
+10336,,6/18/2023,6:30:00 AM,,,Other
+10337,,6/18/2023,6:40:00 AM,-$20.00,Fuel-N-Go,Gas
+10338,,6/18/2023,6:50:00 AM,-$50.00,NomsMart,Groceries
+10339,,6/18/2023,7:00:00 AM,-$20.00,WaterShield,Utilities
+10340,,6/18/2023,7:10:00 AM,,,Other
+10341,,6/18/2023,7:20:00 AM,-$10.00,Fuel-N-Go,Gas
+10342,,6/18/2023,7:30:00 AM,-$30.00,NomsMart,Groceries
+10343,,6/18/2023,7:40:00 AM,-$85.00,Lee's Electric,Utilities
+10344,,6/18/2023,7:50:00 AM,,,Other
+10345,,6/18/2023,8:00:00 AM,-$50.00,Fuel-N-Go,Gas
+10346,,6/18/2023,8:10:00 AM,-$15.00,NomsMart,Groceries
+10347,,6/18/2023,8:20:00 AM,-$100.00,Moore Power,Utilities
+10348,,6/18/2023,8:30:00 AM,,,Other
+10349,,6/18/2023,8:40:00 AM,-$25.00,Fuel-N-Go,Gas
+10350,,6/18/2023,8:50:00 AM,-$120.00,NomsMart,Groceries
+10351,,6/18/2023,9:00:00 AM,-$75.00,S-Mobile,Utilities
+10352,,6/18/2023,9:10:00 AM,,,Other
+10353,,6/18/2023,9:20:00 AM,-$20.00,Fuel-N-Go,Gas
+10354,,6/18/2023,9:30:00 AM,-$50.00,NomsMart,Groceries
+10355,,6/18/2023,9:40:00 AM,-$68.00,MoMo Co,Utilities
+10356,,6/18/2023,9:50:00 AM,,,Other
+10357,,6/18/2023,10:00:00 AM,-$10.00,Fuel-N-Go,Gas
+10358,,6/18/2023,10:10:00 AM,-$30.00,NomsMart,Groceries
+10359,,6/18/2023,10:20:00 AM,-$150.00,WaterShield,Utilities
+10360,,6/18/2023,10:30:00 AM,,,Other
+10361,,6/18/2023,10:40:00 AM,-$50.00,Fuel-N-Go,Gas
+10362,,6/18/2023,10:50:00 AM,-$15.00,NomsMart,Groceries
+10363,,6/18/2023,11:00:00 AM,-$50.00,Lee's Electric,Utilities
+10364,,6/18/2023,11:10:00 AM,,,Other
+10365,,6/18/2023,11:20:00 AM,-$25.00,Fuel-N-Go,Gas
+10366,,6/18/2023,11:30:00 AM,-$120.00,NomsMart,Groceries
+10367,,6/18/2023,11:40:00 AM,-$75.00,Moore Power,Utilities
+10368,,6/18/2023,11:50:00 AM,,,Other
+10369,,6/18/2023,12:00:00 PM,-$20.00,Fuel-N-Go,Gas
+10370,,6/18/2023,12:10:00 PM,-$50.00,NomsMart,Groceries
+10371,,6/18/2023,12:20:00 PM,-$20.00,S-Mobile,Utilities
+10372,,6/18/2023,12:30:00 PM,,,Other
+10373,,6/18/2023,12:40:00 PM,-$10.00,Fuel-N-Go,Gas
+10374,,6/18/2023,12:50:00 PM,-$30.00,NomsMart,Groceries
+10375,,6/18/2023,1:00:00 PM,-$85.00,MoMo Co,Utilities
+10376,,6/18/2023,1:10:00 PM,,,Other
+10377,,6/18/2023,1:20:00 PM,-$50.00,Fuel-N-Go,Gas
+10378,,6/18/2023,1:30:00 PM,-$15.00,NomsMart,Groceries
+10379,,6/18/2023,1:40:00 PM,-$100.00,WaterShield,Utilities
+10380,,6/18/2023,1:50:00 PM,,,Other
+10381,,6/18/2023,2:00:00 PM,-$25.00,Fuel-N-Go,Gas
+10382,,6/18/2023,2:10:00 PM,-$120.00,NomsMart,Groceries
+10383,,6/18/2023,2:20:00 PM,-$75.00,Lee's Electric,Utilities
+10384,,6/18/2023,2:30:00 PM,,,Other
+10385,,6/18/2023,2:40:00 PM,-$20.00,Fuel-N-Go,Gas
+10386,,6/18/2023,2:50:00 PM,-$50.00,NomsMart,Groceries
+10387,,6/18/2023,3:00:00 PM,-$68.00,Moore Power,Utilities
+10388,,6/18/2023,3:10:00 PM,,,Other
+10389,,6/18/2023,3:20:00 PM,-$10.00,Fuel-N-Go,Gas
+10390,,6/18/2023,3:30:00 PM,-$30.00,NomsMart,Groceries
+10391,,6/18/2023,3:40:00 PM,-$150.00,S-Mobile,Utilities
+10392,,6/18/2023,3:50:00 PM,,,Other
+10393,,6/18/2023,4:00:00 PM,-$50.00,Fuel-N-Go,Gas
+10394,,6/18/2023,4:10:00 PM,-$15.00,NomsMart,Groceries
+10395,,6/18/2023,4:20:00 PM,-$50.00,MoMo Co,Utilities
+10396,,6/18/2023,4:30:00 PM,,,Other
+10397,,6/18/2023,4:40:00 PM,-$25.00,Fuel-N-Go,Gas
+10398,,6/18/2023,4:50:00 PM,-$120.00,NomsMart,Groceries
+10399,,6/18/2023,5:00:00 PM,-$75.00,WaterShield,Utilities
+10400,,6/19/2023,12:30:00 AM,,,Other
+,,,,,,
