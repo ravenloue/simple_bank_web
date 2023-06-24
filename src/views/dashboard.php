@@ -1,9 +1,12 @@
 <?php
-    $name = $_SESSION['userName'];
-    $balance = '$ '.number_format($_SESSION['balance']);
 
-    require "./src/components/AccessSection.php";
-    require "./src/components/LoggedInSection.php";
+    require "./src/components/AcctOverview.php";
+    require "./src/components/AcctCards.php";
+    require "./src/components/News.php";
 
-    $contents=$aside.$section;
+    $dashboard="<section id='Dashboard' class='container'>
+                    <article class='row'>";
+    $dashboard.=$overviewCard.$acctCards.$newsCard;
+    $dashboard.="   </article>
+                 </section>";
 ?>

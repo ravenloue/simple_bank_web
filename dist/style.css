@@ -187,7 +187,7 @@ div#calendar div.header {
   border-top-right-radius: 10% 40%;
 }
 div#calendar div.header span.title {
-  color: #FFF;
+  color: white;
   font-size: 18px;
   font-weight: 700;
 }
@@ -218,7 +218,7 @@ div#calendar ul.label li {
   text-align: center;
   color: #000;
   font-size: 12px;
-  background-color: transparent;
+  background-color: #DDD;
 }
 div#calendar ul.dates {
   float: left;
@@ -265,6 +265,7 @@ div.clear {
 #PersonaCard {
   background-color: #202150;
   height: 150px;
+  width: 998px;
   color: #dcdfee;
   display: flex;
   border-bottom-left-radius: 25px;
@@ -284,6 +285,88 @@ div.clear {
   margin-left: 1rem;
   font-weight: 700;
   font-size: 1.75rem;
+}
+
+/****** Acct Overview ******/
+#AcctOverview {
+  margin-top: 5px;
+  margin-left: 2px;
+  background-color: #f7f8fc;
+  border-style: solid;
+  border-color: #bfbcd9;
+  border-width: 2px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 6px 3px #d6d3e1;
+  height: 250px;
+  width: 400px;
+}
+#AcctOverview h4 {
+  padding-left: 5px;
+  text-align: left;
+  color: #000;
+  font-size: 2rem;
+}
+#AcctOverview h2 {
+  text-align: center;
+  color: #202150;
+  font-size: 4.5rem;
+  font-weight: 700;
+}
+#AcctOverview h6 {
+  padding-right: 5px;
+  text-align: right;
+  color: #000;
+  font-size: 1rem;
+}
+
+/****** Acct Cards ******/
+#AcctCards {
+  margin-top: 5px;
+  margin-left: 2px;
+  background-color: #f7f8fc;
+  border-style: solid;
+  border-color: #bfbcd9;
+  border-width: 2px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 6px 3px #d6d3e1;
+  height: 250px;
+  width: 400px;
+}
+#AcctCards h4 {
+  padding-left: 5px;
+  text-align: left;
+  color: #000;
+  font-size: 2rem;
+}
+#AcctCards p {
+  text-align: center;
+  text-shadow: 1px 1px 1px #000;
+  color: #d6d3e1;
+  font-size: 1.5rem;
+}
+
+/****** News ******/
+#News {
+  margin-top: 5px;
+  margin-left: 2px;
+  background-color: #f7f8fc;
+  border-style: solid;
+  border-color: #bfbcd9;
+  border-width: 2px;
+  border-radius: 20px;
+  box-shadow: -2px 4px 3px 3px #d6d3e1;
+  height: 250px;
+  width: 178px;
+}
+#News h4 {
+  padding-left: 5px;
+  text-align: left;
+  color: #000;
+  font-size: 1.75rem;
+}
+#News p {
+  color: #202150;
+  font-size: 1rem;
 }
 
 .flex-grid {
