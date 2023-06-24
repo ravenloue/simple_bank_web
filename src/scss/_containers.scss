@@ -1,0 +1,291 @@
+/****** Welcome Section ******/
+#WelcomeSection {
+	margin-left: -12px;
+	margin-right: 0;
+	padding: 0;
+	background-color: $background-color_1;
+	height: 798px;
+	width: 360px;
+	color: $color_1;
+	h2 {
+		margin-top: 55px;
+		text-align: center;
+		font-size: 2.5rem;
+		font-weight: 700;
+	}
+	img {
+		margin-top: 10px;
+		margin-left: 80px;
+	}
+	p {
+		margin-top: 10px;
+		font-size: .75rem;
+		text-align: center;
+	}
+}
+
+/****** Login Section ******/
+#LoginSection {
+	margin-left: 0;
+	margin-right: -12px;
+	padding: 0;
+	background-color: $background-color_2;
+	height: 798px;
+	width: 840px;
+	form {
+		text-align: center;
+	}
+	label {
+		color: $color_2;
+		font-size: 1.25rem;
+		font-weight: 600;
+	}
+	button {
+		margin-top: 3px;
+		font-size: 1rem;
+		font-weight: 700;
+		text-align: center;
+		color: $color_3;
+		background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+		border-color: $border-color_1;
+		border-radius: 6px;
+		border-width: 1px;
+		cursor: pointer;
+	}
+	h6 {
+		margin-top: 5px;
+		font-weight: 700;
+		font-size: .75rem;
+		text-align: center;
+		color: $color_2;
+	}
+}
+
+#loginInputs {
+	margin-top: 45%;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+
+/****** New Account Section ******/
+#NewAccountSection {
+	margin-left: 0;
+	margin-right: -12px;
+	padding: 0;
+	background-color: $background-color_2;
+	height: 798px;
+	width: 840px;
+	form {
+		margin-top: 36%;
+		margin-left: 10%;
+		margin-right: 10%;
+		text-align: center;
+	}
+	label {
+		color: $color_2;
+		font-size: 1.25rem;
+		font-weight: 600;
+	}
+	button {
+		margin-top: 3px;
+		font-size: 1rem;
+		font-weight: 700;
+		text-align: center;
+		color: $color_3;
+		background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+		border-color: $border-color_1;
+		border-radius: 6px;
+		border-width: 1px;
+		cursor: pointer;
+		width: 15rem;
+		height: 2.5rem;
+	}
+	h6 {
+		margin-top: 5px;
+		font-weight: 700;
+		font-size: .75rem;
+		text-align: center;
+		color: $color_2;
+	}
+}
+
+/****** Access Section ******/
+#AccessSection {
+	margin-left: -12px;
+	background-color: $background-color_1;
+	color: $color_1;
+	width: 200px;
+	height: 798px;
+	img {
+		margin-left: 25px;
+	}
+	h4 {
+		margin-top: 1rem;
+		font-size: 1.5rem;
+		font-weight: 700;
+		text-align: center;
+	}
+	p {
+		font-size: .875rem;
+		font-weight: 300;
+		text-align: center;
+	}
+	button {
+		margin-top: 6px;
+		margin-left: 30px;
+		padding: 0;
+		height: 40px;
+		width: 120px;
+		font-size: 1.5rem;
+		font-weight: 700;
+		text-align: center;
+		color: $color_3;
+		background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+		border-color: $border-color_1;
+		border-radius: 6px;
+		border-width: 1px;
+		cursor: pointer;
+	}
+}
+#clock {
+	text-align: center;
+	font-size: 1.875rem;
+	font-weight: 700;
+	color: $color_4;
+}
+/****** Calendar ******/
+
+div#calendar {
+	margin-left: -5px;
+	padding: 0px;
+	width: 186px;
+	border-bottom-left-radius: 10%;
+	border-bottom-right-radius: 10%;
+	div.header {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background-color: $background-color_3;
+		text-align: center;
+		display: block;
+		cursor: pointer;
+		text-decoration: none;
+		border-top-left-radius: 10% 40%;
+		border-top-right-radius: 10% 40%;
+		span.title {
+			color: $color_5;
+			font-size: 18px;
+			font-weight: 700;
+		}
+	}
+	div.box-content {
+		border: 1px solid #202136;
+		border-top: none;
+		background-color: $background-color_4;
+		border-bottom-left-radius: 10%;
+		border-bottom-right-radius: 10%;
+	}
+	ul.label {
+		float: left;
+		margin: 0px;
+		padding: 0px;
+		margin-top: 5px;
+		margin-left: 5px;
+		li {
+			margin-left: 3px;
+			padding: 0px;
+			margin-right: 2px;
+			float: left;
+			list-style-type: none;
+			width: 20px;
+			height: 20px;
+			line-height: 20px;
+			vertical-align: middle;
+			text-align: center;
+			color: $color_6;
+			font-size: 12px;
+			background-color: $background-color_5;
+		}
+	}
+    /** overall width = width+padding-right**/
+	ul.dates {
+		float: left;
+		margin: 0px;
+		padding: 0px;
+		margin-left: 5px;
+		margin-bottom: 5px;
+		li {
+			margin: 0px;
+			padding: 0px;
+			margin-right: 5px;
+			margin-top: 5px;
+			line-height: 20px;
+			vertical-align: middle;
+			float: left;
+			list-style-type: none;
+			width: 20px;
+			height: 20px;
+			font-size: 12px;
+			background-color: $background-color_6;
+			color: $color_6;
+			text-align: center;
+		}
+	}
+}
+:focus {
+	outline: none;
+}
+div.clear {
+	clear: both;
+}
+
+/****** Dashboard ******/
+#LoggedInSection {
+	margin-left: 0px;
+	margin-right: -12px;
+	padding: 0;
+	background-color: $background-color_2;
+	width: 999px;
+	height: 798px;
+}
+#PersonaCard {
+	background-color: $background-color_7;
+	height: 150px;
+	color: $color_4;
+	display: flex;
+	>* {
+		&:first-child {
+			margin: 1rem;
+			align-self: center;
+		}
+		&:nth-child(2) {
+			justify-self: flex-start;
+			align-self: center;
+		}
+	}
+	h3 {
+		padding-top: 5px;
+		margin-top: 5px;
+		margin-left: 1rem;
+		font-weight: 700;
+		font-size: 1.75rem;
+	}
+	h5 {
+		margin-left: 1rem;
+		font-weight: 600;
+		font-size: 1.25rem;
+		display: inline-block;
+	}
+	p {
+		margin-left: 1.25rem;
+		font-weight: 300;
+		font-size: 1.25rem;
+		display: inline-block;
+	}
+}
+.flex-grid {
+	display: flex;
+}
+.flex-col {
+	flex: 1;
+}
