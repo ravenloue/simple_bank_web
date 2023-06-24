@@ -3,10 +3,10 @@
 	margin-left: -12px;
 	margin-right: 0;
 	padding: 0;
-	background-color: $background-color_1;
+	background-color: $darkBlueBlack;
 	height: 798px;
 	width: 360px;
-	color: $color_1;
+	color: $slighOffWhite;
 	h2 {
 		margin-top: 55px;
 		text-align: center;
@@ -29,14 +29,14 @@
 	margin-left: 0;
 	margin-right: -12px;
 	padding: 0;
-	background-color: $background-color_2;
+	background-color: $slighOffWhite;
 	height: 798px;
 	width: 840px;
 	form {
 		text-align: center;
 	}
 	label {
-		color: $color_2;
+		color: $greyBlue;
 		font-size: 1.25rem;
 		font-weight: 600;
 	}
@@ -45,9 +45,9 @@
 		font-size: 1rem;
 		font-weight: 700;
 		text-align: center;
-		color: $color_3;
+		color: $darkBlueBlack;
 		background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
-		border-color: $border-color_1;
+		border-color: $darkBlueBlack;
 		border-radius: 6px;
 		border-width: 1px;
 		cursor: pointer;
@@ -57,7 +57,7 @@
 		font-weight: 700;
 		font-size: .75rem;
 		text-align: center;
-		color: $color_2;
+		color: $greyBlue;
 	}
 }
 
@@ -73,7 +73,7 @@
 	margin-left: 0;
 	margin-right: -12px;
 	padding: 0;
-	background-color: $background-color_2;
+	background-color: $slighOffWhite;
 	height: 798px;
 	width: 840px;
 	form {
@@ -83,7 +83,7 @@
 		text-align: center;
 	}
 	label {
-		color: $color_2;
+		color: $greyBlue;
 		font-size: 1.25rem;
 		font-weight: 600;
 	}
@@ -92,9 +92,9 @@
 		font-size: 1rem;
 		font-weight: 700;
 		text-align: center;
-		color: $color_3;
+		color: $darkBlueBlack;
 		background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
-		border-color: $border-color_1;
+		border-color: $darkBlueBlack;
 		border-radius: 6px;
 		border-width: 1px;
 		cursor: pointer;
@@ -106,20 +106,17 @@
 		font-weight: 700;
 		font-size: .75rem;
 		text-align: center;
-		color: $color_2;
+		color: $greyBlue;
 	}
 }
 
 /****** Access Section ******/
 #AccessSection {
 	margin-left: -12px;
-	background-color: $background-color_1;
-	color: $color_1;
+	background-color: $darkBlueBlack;
+	color: $slighOffWhite;
 	width: 200px;
 	height: 798px;
-	img {
-		margin-left: 25px;
-	}
 	h4 {
 		margin-top: 1rem;
 		font-size: 1.5rem;
@@ -133,26 +130,29 @@
 	}
 	button {
 		margin-top: 6px;
-		margin-left: 30px;
+		margin-left: -8px;
 		padding: 0;
 		height: 40px;
-		width: 120px;
+		width: 190px;
 		font-size: 1.5rem;
 		font-weight: 700;
-		text-align: center;
-		color: $color_3;
+		text-align: left;
+		color: $darkBlueBlack;
 		background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
-		border-color: $border-color_1;
+		border-color: $darkBlueBlack;
 		border-radius: 6px;
 		border-width: 1px;
 		cursor: pointer;
+        img{
+            margin-left: 2px;
+        }
 	}
 }
 #clock {
 	text-align: center;
 	font-size: 1.875rem;
 	font-weight: 700;
-	color: $color_4;
+	color: $slightBlueWhite;
 }
 /****** Calendar ******/
 
@@ -165,7 +165,7 @@ div#calendar {
 	div.header {
 		padding-top: 10px;
 		padding-bottom: 10px;
-		background-color: $background-color_3;
+		background-color: $greyBlue;
 		text-align: center;
 		display: block;
 		cursor: pointer;
@@ -173,7 +173,7 @@ div#calendar {
 		border-top-left-radius: 10% 40%;
 		border-top-right-radius: 10% 40%;
 		span.title {
-			color: $color_5;
+			color: $pureWhite;
 			font-size: 18px;
 			font-weight: 700;
 		}
@@ -181,7 +181,7 @@ div#calendar {
 	div.box-content {
 		border: 1px solid #202136;
 		border-top: none;
-		background-color: $background-color_4;
+		background-color: $slightBlueWhite;
 		border-bottom-left-radius: 10%;
 		border-bottom-right-radius: 10%;
 	}
@@ -202,9 +202,9 @@ div#calendar {
 			line-height: 20px;
 			vertical-align: middle;
 			text-align: center;
-			color: $color_6;
+			color: $black;
 			font-size: 12px;
-			background-color: $background-color_5;
+			background-color: $offWhite;
 		}
 	}
     /** overall width = width+padding-right**/
@@ -226,8 +226,8 @@ div#calendar {
 			width: 20px;
 			height: 20px;
 			font-size: 12px;
-			background-color: $background-color_6;
-			color: $color_6;
+			background-color: $offWhite;
+			color: $black;
 			text-align: center;
 		}
 	}
@@ -244,15 +244,18 @@ div.clear {
 	margin-left: 0px;
 	margin-right: -12px;
 	padding: 0;
-	background-color: $background-color_2;
+	background-color: $slighOffWhite;
 	width: 999px;
 	height: 798px;
 }
 #PersonaCard {
-	background-color: $background-color_7;
+	background-color: $darkBlue;
 	height: 150px;
-	color: $color_4;
+	width: 998px;
+	color: $slightBlueWhite;
 	display: flex;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 	>* {
 		&:first-child {
 			margin: 1rem;
@@ -265,24 +268,102 @@ div.clear {
 	}
 	h3 {
 		padding-top: 5px;
-		margin-top: 5px;
+		margin-top: -5px;
 		margin-left: 1rem;
 		font-weight: 700;
 		font-size: 1.75rem;
 	}
-	h5 {
-		margin-left: 1rem;
-		font-weight: 600;
-		font-size: 1.25rem;
-		display: inline-block;
+}
+
+/****** Acct Overview ******/
+
+#AcctOverview {
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: $slighOffWhite;
+	border-style: solid;
+	border-color: $borderColor;
+	border-width: 2px;
+	border-radius: 20px;
+	box-shadow: 4px 4px 6px 3px $borderShadows;
+	height: 250px;
+	width: 400px;
+	
+	h4{
+		padding-left: 5px;
+		text-align:left;
+		color:$black;
+		font-size: 2rem;
 	}
-	p {
-		margin-left: 1.25rem;
-		font-weight: 300;
-		font-size: 1.25rem;
-		display: inline-block;
+	h2{
+		text-align:center;
+		color:$darkBlue;
+		font-size: 4.5rem;
+		font-weight: 700;
+	}
+	h6{
+		padding-right: 5px;
+		text-align:right;
+		color:$black;
+		font-size: 1rem;
 	}
 }
+
+/****** Acct Cards ******/
+
+#AcctCards {
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: $slighOffWhite;
+	border-style: solid;
+	border-color: $borderColor;
+	border-width: 2px;
+	border-radius: 20px;
+	
+	box-shadow: 4px 4px 6px 3px $borderShadows;
+	height: 250px;
+	width: 400px;
+	
+	h4{
+		padding-left: 5px;
+		text-align:left;
+		color:$black;
+		font-size: 2rem;
+	}
+	p{
+		text-align: center;
+		text-shadow: 1px 1px 1px $black;
+		color:$borderShadows;
+		font-size: 1.5rem;
+	}
+}
+
+/****** News ******/
+
+#News {
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: $slighOffWhite;
+	border-style: solid;
+	border-color: $borderColor;
+	border-width: 2px;
+	border-radius: 20px;
+	box-shadow: -2px 4px 3px 3px $borderShadows;
+	height: 250px;
+	width: 178px;
+	
+	h4{
+		padding-left: 5px;
+		text-align:left;
+		color:$black;
+		font-size: 1.75rem;
+	}
+	p{
+		color:$darkBlue;
+		font-size: 1rem;
+	}
+}
+
 .flex-grid {
 	display: flex;
 }
