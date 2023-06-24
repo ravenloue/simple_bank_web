@@ -25,7 +25,7 @@ The website utilizes object oriented PHP and a modular structure, similar to Rea
 
 ### Screenshots
 
-![]()To be added
+[x](ss/signup_page_design.png) | [x](ss/login_page_design.png) | [x](ss/home_dashboard_curState.png)
 
 
 ## My process
