@@ -1,301 +1,305 @@
+footer {
+  color: white;
+  font-size: 0.75rem;
+  position: fixed;
+  bottom: 0;
+  margin-bottom: -1rem;
+  width: 100%;
+  text-align: center;
+}
 
 /****** Welcome Section ******/
-#WelcomeSection{
-    margin-left:-12px;
-    margin-right: 0;
-    padding:0;
-    background-color: #202136;
-    height: 798px;
-    width: 360px;
-    color:#f7f8fc;  
+#WelcomeSection {
+  margin-left: -12px;
+  margin-right: 0;
+  padding: 0;
+  background-color: #202136;
+  height: 798px;
+  width: 360px;
+  color: #f7f8fc;
 }
-#WelcomeSection h2{
-    margin-top: 55px;
-    text-align:center;
-    font-size: 2.5rem;
-    font-weight: 700;
-  }
-#WelcomeSection img{
-    margin-top: 10px;
-    margin-left: 80px;
+#WelcomeSection h2 {
+  margin-top: 55px;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
 }
-#WelcomeSection p{
-    margin-top: 10px;
-    font-size: .75rem;
-    text-align: center;
+#WelcomeSection img {
+  margin-top: 10px;
+  margin-left: 80px;
+}
+#WelcomeSection p {
+  margin-top: 10px;
+  font-size: 0.75rem;
+  text-align: center;
 }
 
 /****** Login Section ******/
-#LoginSection{
-    margin-left:0;
-    margin-right:-12px;
-    padding: 0;
-    background-color: #f7f8fc;
-    height:798px;
-    width:840px;
-}
-#loginInputs{
-    margin-top: 45%;
-    margin-left: 10%;
-    margin-right: 10%;
-    text-align: center;
+#LoginSection {
+  margin-left: 0;
+  margin-right: -12px;
+  padding: 0;
+  background-color: #f7f8fc;
+  height: 798px;
+  width: 840px;
 }
 #LoginSection form {
-    text-align: center;
+  text-align: center;
 }
-#LoginSection label{
-    color:#545365;
-    font-size: 1.25rem;
-    font-weight: 600;
+#LoginSection label {
+  color: #545365;
+  font-size: 1.25rem;
+  font-weight: 600;
 }
-#LoginSection button{
-    margin-top: 3px;
-    font-size: 1rem;
-    font-weight: 700;
-    text-align: center;
-    color: #202136;
-    background-image:  linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
-    border-color: #202136;
-    border-radius: 6px;
-    border-width: 1px;
-    cursor: pointer;
+#LoginSection button {
+  margin-top: 3px;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  color: #202136;
+  background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+  border-color: #202136;
+  border-radius: 6px;
+  border-width: 1px;
+  cursor: pointer;
 }
-#LoginSection h6{
-    margin-top: 5px;
-    font-weight: 700;
-    font-size: .75rem;
-    text-align: center;
-    color: #545365;
+#LoginSection h6 {
+  margin-top: 5px;
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-align: center;
+  color: #545365;
+}
+
+#loginInputs {
+  margin-top: 45%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
 }
 
 /****** New Account Section ******/
-#NewAccountSection{
-    margin-left:0;
-    margin-right:-12px;
-    padding: 0;
-    background-color: #f7f8fc;
-    height:798px;
-    width:840px;
+#NewAccountSection {
+  margin-left: 0;
+  margin-right: -12px;
+  padding: 0;
+  background-color: #f7f8fc;
+  height: 798px;
+  width: 840px;
 }
-#NewAccountSection form{
-    margin-top: 36%;
-    margin-left: 10%;
-    margin-right: 10%;
-    text-align: center;
+#NewAccountSection form {
+  margin-top: 36%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
 }
-#NewAccountSection label{
-    color:#545365;
-    font-size: 1.25rem;
-    font-weight: 600;
+#NewAccountSection label {
+  color: #545365;
+  font-size: 1.25rem;
+  font-weight: 600;
 }
-#NewAccountSection button{
-    margin-top: 3px;
-    font-size: 1rem;
-    font-weight: 700;
-    text-align: center;
-    color: #202136;
-    background-image:  linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
-    border-color: #202136;
-    border-radius: 6px;
-    border-width: 1px;
-    cursor: pointer;
-    width: 15rem;
-    height: 2.5rem;
+#NewAccountSection button {
+  margin-top: 3px;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  color: #202136;
+  background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+  border-color: #202136;
+  border-radius: 6px;
+  border-width: 1px;
+  cursor: pointer;
+  width: 15rem;
+  height: 2.5rem;
 }
-#NewAccountSection h6{
-    margin-top: 5px;
-    font-weight: 700;
-    font-size: .75rem;
-    text-align: center;
-    color: #545365;
+#NewAccountSection h6 {
+  margin-top: 5px;
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-align: center;
+  color: #545365;
 }
 
 /****** Access Section ******/
 #AccessSection {
-    margin-left:-12px;
-    background-color: #202136;
-    color:#f7f8fc;  
-    width: 200px;
-    height: 798px;
+  margin-left: -12px;
+  background-color: #202136;
+  color: #f7f8fc;
+  width: 200px;
+  height: 798px;
 }
-#AccessSection img{
-    margin-left: 25px;
+#AccessSection img {
+  margin-left: 25px;
 }
-#AccessSection h4{
-    margin-top: 1rem;
-    font-size: 1.5rem;
-    font-weight: 700;
-    text-align: center;
+#AccessSection h4 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
 }
-#AccessSection p{
-    font-size: .875rem;
-    font-weight: 300;
-    text-align: center;
+#AccessSection p {
+  font-size: 0.875rem;
+  font-weight: 300;
+  text-align: center;
 }
-#AccessSection button{
-    margin-top: 6px;
-    margin-left: 30px;
-    padding: 0;
-    height: 40px;
-    width: 120px;
-    font-size: 1.5rem;
-    font-weight: 700;
-    text-align: center;
-    color: #202136;
-    background-image:  linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
-    border-color: #202136;
-    border-radius: 6px;
-    border-width: 1px;
-    cursor: pointer;
+#AccessSection button {
+  margin-top: 6px;
+  margin-left: 30px;
+  padding: 0;
+  height: 40px;
+  width: 120px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  color: #202136;
+  background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
+  border-color: #202136;
+  border-radius: 6px;
+  border-width: 1px;
+  cursor: pointer;
 }
-#clock{
-    text-align: center;
-    font-size: 1.875rem;
-    font-weight: 700;
-    color:#dcdfee;
+
+#clock {
+  text-align: center;
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: #dcdfee;
 }
 
 /****** Calendar ******/
-div#calendar{
-    margin-left:-5px;
-    padding:0px;
-    width: 186px;
-    border-bottom-left-radius: 10%;
-    border-bottom-right-radius: 10%;
-  }   
-div#calendar div.header{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color:#545365;
-    text-align:center;
-    display:block;
-    cursor:pointer;
-    text-decoration:none;
-    border-top-left-radius: 10% 40%;
-    border-top-right-radius: 10% 40%;
-  }   
-div#calendar div.header span.title{
-      color:#FFF;
-      font-size:18px;
-      font-weight: 700;
-  }
-/****** Calendar Content Cells ******/
-div#calendar div.box-content{
-      border:1px solid #202136;
-      border-top:none;
-      background-color: #dcdfee;
-      border-bottom-left-radius: 10%;
-      border-bottom-right-radius: 10%;
-  }
-div#calendar ul.label{
-      float:left;
-      margin: 0px;
-      padding: 0px;
-      margin-top:5px;
-      margin-left: 5px;
-  }
-div#calendar ul.label li{
-      margin-left:3px;
-      padding:0px;
-      margin-right:2px;  
-      float:left;
-      list-style-type:none;
-      width:20px;
-      height:20px;
-      line-height:20px;
-      vertical-align:middle;
-      text-align:center;
-      color:#000;
-      font-size: 12px;
-      background-color: transparent;
-  }
-div#calendar ul.dates{
-      float:left;
-      margin: 0px;
-      padding: 0px;
-      margin-left: 5px;
-      margin-bottom: 5px;
-  }
-/** overall width = width+padding-right**/
-div#calendar ul.dates li{
-      margin:0px;
-      padding:0px;
-      margin-right:5px;
-      margin-top: 5px;
-      line-height:20px;
-      vertical-align:middle;
-      float:left;
-      list-style-type:none;
-      width:20px;
-      height:20px;
-      font-size:12px;
-      background-color: #DDD;
-      color:#000;
-      text-align:center; 
-  }
-:focus{
-      outline:none;
-  }
-div.clear{
-      clear:both;
-  }
+div#calendar {
+  margin-left: -5px;
+  padding: 0px;
+  width: 186px;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  /** overall width = width+padding-right**/
+}
+div#calendar div.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #545365;
+  text-align: center;
+  display: block;
+  cursor: pointer;
+  text-decoration: none;
+  border-top-left-radius: 10% 40%;
+  border-top-right-radius: 10% 40%;
+}
+div#calendar div.header span.title {
+  color: #FFF;
+  font-size: 18px;
+  font-weight: 700;
+}
+div#calendar div.box-content {
+  border: 1px solid #202136;
+  border-top: none;
+  background-color: #dcdfee;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+div#calendar ul.label {
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+div#calendar ul.label li {
+  margin-left: 3px;
+  padding: 0px;
+  margin-right: 2px;
+  float: left;
+  list-style-type: none;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  vertical-align: middle;
+  text-align: center;
+  color: #000;
+  font-size: 12px;
+  background-color: transparent;
+}
+div#calendar ul.dates {
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+div#calendar ul.dates li {
+  margin: 0px;
+  padding: 0px;
+  margin-right: 5px;
+  margin-top: 5px;
+  line-height: 20px;
+  vertical-align: middle;
+  float: left;
+  list-style-type: none;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  background-color: #DDD;
+  color: #000;
+  text-align: center;
+}
+
+:focus {
+  outline: none;
+}
+
+div.clear {
+  clear: both;
+}
 
 /****** Dashboard ******/
-#LoggedInSection{
-    margin-left: 0px;
-    margin-right:-12px;
-    padding: 0;
-    background-color: #f7f8fc;
-    width: 999px;
-    height: 798px;
-}
-#PersonaCard{
-    background-color: #202150;
-    height: 150px;
-    color: #dcdfee;
-    display: flex;
-}
-.flex-grid{
-    display: flex;
-}
-.flex-col{
-    flex: 1;
-}
-#PersonaCard>*:first-child{
-    margin: 1rem;
-    align-self: center;
-}
-#PersonaCard>*:nth-child(2){
-    justify-self: flex-start;
-    align-self:center;
-}
-#PersonaCard h3{
-    padding-top: 5px;
-    margin-top: 5px;
-    margin-left: 1rem;
-    font-weight: 700;
-    font-size: 1.75rem;
-}
-#PersonaCard h5{
-    margin-left: 1rem;
-    font-weight: 600;
-    font-size: 1.25rem;
-    display: inline-block;
-}
-#PersonaCard p{
-    margin-left: 1.25rem;
-    font-weight: 300;
-    font-size: 1.25rem;
-    display: inline-block;
+#LoggedInSection {
+  margin-left: 0px;
+  margin-right: -12px;
+  padding: 0;
+  background-color: #f7f8fc;
+  width: 999px;
+  height: 798px;
 }
 
+#PersonaCard {
+  background-color: #202150;
+  height: 150px;
+  color: #dcdfee;
+  display: flex;
+}
+#PersonaCard > *:first-child {
+  margin: 1rem;
+  align-self: center;
+}
+#PersonaCard > *:nth-child(2) {
+  justify-self: flex-start;
+  align-self: center;
+}
+#PersonaCard h3 {
+  padding-top: 5px;
+  margin-top: 5px;
+  margin-left: 1rem;
+  font-weight: 700;
+  font-size: 1.75rem;
+}
+#PersonaCard h5 {
+  margin-left: 1rem;
+  font-weight: 600;
+  font-size: 1.25rem;
+  display: inline-block;
+}
+#PersonaCard p {
+  margin-left: 1.25rem;
+  font-weight: 300;
+  font-size: 1.25rem;
+  display: inline-block;
+}
 
-footer{
-    color:white;
-    font-size:.75rem; 
-    position:fixed; 
-    bottom: 0; 
-    margin-bottom: -1rem; 
-    width: 100%; 
-    text-align: center;
+.flex-grid {
+  display: flex;
+}
+
+.flex-col {
+  flex: 1;
 }
