@@ -117,9 +117,6 @@
 	color: $color_1;
 	width: 200px;
 	height: 798px;
-	img {
-		margin-left: 25px;
-	}
 	h4 {
 		margin-top: 1rem;
 		font-size: 1.5rem;
@@ -133,19 +130,22 @@
 	}
 	button {
 		margin-top: 6px;
-		margin-left: 30px;
+		margin-left: -8px;
 		padding: 0;
 		height: 40px;
-		width: 120px;
+		width: 190px;
 		font-size: 1.5rem;
 		font-weight: 700;
-		text-align: center;
+		text-align: left;
 		color: $color_3;
 		background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
 		border-color: $border-color_1;
 		border-radius: 6px;
 		border-width: 1px;
 		cursor: pointer;
+        img{
+            margin-left: 2px;
+        }
 	}
 }
 #clock {
@@ -253,6 +253,8 @@ div.clear {
 	height: 150px;
 	color: $color_4;
 	display: flex;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 	>* {
 		&:first-child {
 			margin: 1rem;
@@ -265,23 +267,12 @@ div.clear {
 	}
 	h3 {
 		padding-top: 5px;
-		margin-top: 5px;
+		margin-top: -5px;
 		margin-left: 1rem;
 		font-weight: 700;
 		font-size: 1.75rem;
 	}
-	h5 {
-		margin-left: 1rem;
-		font-weight: 600;
-		font-size: 1.25rem;
-		display: inline-block;
-	}
-	p {
-		margin-left: 1.25rem;
-		font-weight: 300;
-		font-size: 1.25rem;
-		display: inline-block;
-	}
+	
 }
 .flex-grid {
 	display: flex;

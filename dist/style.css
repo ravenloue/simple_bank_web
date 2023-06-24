@@ -128,9 +128,6 @@ footer {
   width: 200px;
   height: 798px;
 }
-#AccessSection img {
-  margin-left: 25px;
-}
 #AccessSection h4 {
   margin-top: 1rem;
   font-size: 1.5rem;
@@ -144,19 +141,22 @@ footer {
 }
 #AccessSection button {
   margin-top: 6px;
-  margin-left: 30px;
+  margin-left: -8px;
   padding: 0;
   height: 40px;
-  width: 120px;
+  width: 190px;
   font-size: 1.5rem;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
   color: #202136;
   background-image: linear-gradient(to bottom, #dcdfee 5%, #878a99 100%);
   border-color: #202136;
   border-radius: 6px;
   border-width: 1px;
   cursor: pointer;
+}
+#AccessSection button img {
+  margin-left: 2px;
 }
 
 #clock {
@@ -267,6 +267,8 @@ div.clear {
   height: 150px;
   color: #dcdfee;
   display: flex;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
 }
 #PersonaCard > *:first-child {
   margin: 1rem;
@@ -278,22 +280,10 @@ div.clear {
 }
 #PersonaCard h3 {
   padding-top: 5px;
-  margin-top: 5px;
+  margin-top: -5px;
   margin-left: 1rem;
   font-weight: 700;
   font-size: 1.75rem;
-}
-#PersonaCard h5 {
-  margin-left: 1rem;
-  font-weight: 600;
-  font-size: 1.25rem;
-  display: inline-block;
-}
-#PersonaCard p {
-  margin-left: 1.25rem;
-  font-weight: 300;
-  font-size: 1.25rem;
-  display: inline-block;
 }
 
 .flex-grid {
