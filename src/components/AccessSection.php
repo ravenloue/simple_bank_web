@@ -18,7 +18,7 @@
             <div id='calendar'>";
             
     $aside .= $calendar->show();
-    $aside .="</div><br />
+    $aside .="</div>
             <article id='clock'>&nbsp;</article>
         </aside>
     ";

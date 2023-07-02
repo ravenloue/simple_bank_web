@@ -6,7 +6,7 @@ class Login extends Dbh {
 
     protected function getUser($uId,$pwd){
         // First locate the customerID based on the account number
-        $query = "Select custID, passWd From mobilelogin Where accName = '".$uId."'";
+        $query = "SELECT custID, passWd FROM mobilelogin WHERE accName = '".$uId."'";
         $db = $this->connect();
         try{ 
             $stmt = $db->query($query);
@@ -20,7 +20,7 @@ class Login extends Dbh {
                 exit();                
             }else{
                 $custId = $results[0];
-                $query2 = "Select fName, balance, accType, accNum From customer, account Where customer.custID = '".$custId."' And account.custID = '".$custId."'";
+                $query2 = "SELECT fName, balance, accType, accNum FROM customer, account WHERE customer.custID = '".$custId."' AND account.custID = '".$custId."'";
                 $stmt = $db->query($query2);
                 $results2 = $stmt->fetch_row();
                 $fName = $results2[0];
@@ -34,9 +34,9 @@ class Login extends Dbh {
                 $_SESSION["balance"] = $balance;
                 $_SESSION["accType"] = $accType;
 
-                $query3 = "Select transactionDate, transactionDetails, transactionType, transactionAmount from transactions WHERE transactions.accNum ='".$accNum."' ";
+                $query3 = "SELECT transactionDate, transactionDetails, transactionType, transactionAmount FROM transactions WHERE transactions.accNum ='".$accNum."' ORDER BY transactionDate DESC";
                 $stmt = $db->query($query3);
-                $results3 = $stmt->fetch_all();
+                $results3 = $stmt->fetch_all(MYSQLI_ASSOC);
                 $_SESSION["transactions"] = $results3;
             }
 
