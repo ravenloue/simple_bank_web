@@ -46,7 +46,7 @@
     type: 'doughnut',
     
 data: {
-    labels: ['Utilities','Groceries','Gas','Other'],
+    labels: ['Utilities','Groceries','Other','Gas'],
     datasets: [{
     data: myData,
     }]
