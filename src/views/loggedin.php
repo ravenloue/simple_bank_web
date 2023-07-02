@@ -6,4 +6,5 @@
     require "./src/components/AccessSection.php";
     require "./src/components/LoggedInSection.php";
     $contents=$aside.$section;
+
 ?>
