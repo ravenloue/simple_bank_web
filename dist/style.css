@@ -350,6 +350,7 @@ div.clear {
 #News {
   margin-top: 5px;
   margin-left: 2px;
+  padding: 0;
   background-color: #f7f8fc;
   border-style: solid;
   border-color: #bfbcd9;
@@ -359,13 +360,25 @@ div.clear {
   height: 250px;
   width: 178px;
 }
-#News h4 {
+
+/****** News BG ******/
+#NewsBG {
+  background-image: url("../src/img/pulse.svg"), radial-gradient(#e2e2f7, #c0c0dc);
+  background-position: -20px -10px, left top;
+  background-blend-mode: overlay, normal;
+  border-radius: 15px 100px 15px 100px;
+  height: 100%;
+  width: 100%;
+}
+#NewsBG h4 {
+  padding-top: 5px;
   padding-left: 5px;
   text-align: left;
   color: #000;
   font-size: 1.75rem;
 }
-#News p {
+#NewsBG p {
+  padding: 9px;
   color: #202150;
   font-size: 1rem;
 }
